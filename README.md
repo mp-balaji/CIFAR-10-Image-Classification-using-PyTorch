@@ -24,15 +24,14 @@ The neural network architecture is designed with multiple convolutional layers a
 
 ## Results
 - Training loss and accuracy plots are included to demonstrate the learning process.
-- The model achieved a maximum accuracy of [88.51]% on the CIFAR-10 test set.
+- The model achieved a maximum training accuracy of 95.98% and a maximum testing accuracy of 88.51% on the CIFAR-10 test set.
 
 ## Techniques Used
-- Various techniques from the coursework were employed to enhance model performance, including [list techniques used].
+- Various techniques from the coursework were employed to enhance model performance.
 - Hyperparameter tuning was crucial in improving the accuracy of the model.
 
 ## How to Run
 To run this project, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone [Repository URL]
-
+   git clone https://github.com/mp-balaji/CIFAR-10-Image-Classification-using-PyTorch.git
